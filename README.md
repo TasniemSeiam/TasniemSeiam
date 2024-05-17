@@ -2,19 +2,13 @@
 
 ###
 
-<h3 align="center">I'm Tasniem Seiam</h3>
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tasniemseiam.tasniemseiam&left_color=darkslategrey&right_color=black&left_text=Profile%20Views"  />
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/tasniem-seiam"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<h3 align="center">I'm Tasniem Seiam<br>Front End Developer || Mearn Stack Developer</h3>
 
 ###
 
@@ -60,18 +54,6 @@
 </div>
 
 ###
-
-<h3 align="left">profile view</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tasniemseiam/count.svg?"  />
-</div>
-
-###
-
-
 
 
 <!--
