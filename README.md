@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Hi, I'm Tasniem Seiam 😃<br>Front End Developer || Mearn Stack Developer</h3>
 
 ###
