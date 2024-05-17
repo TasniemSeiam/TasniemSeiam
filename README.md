@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Welcome To My Profile  👋</h1>
+<h1 align="center">Welcome To My Profile <img src="Emojis/Hand gestures/Waving Hand Light Skin Tone.png" /> 👋</h1>
 
 ###
 
