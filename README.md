@@ -18,8 +18,6 @@
 
 <p align="left">🎓 Fresh Graduated From Computer and Information Science</p>
 
-###
-
 <p align="left">💻 I am currently interning at ITI on the Mearn Stack Development track for 4 months.</p>
 
 ###
