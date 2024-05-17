@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋, I'm Tasniem Seiam</h2>
+<h2 align="center">Hi 👋, I'm Tasniem Seiam</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -24,13 +24,6 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/tasniem-seiam" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
- <a href="https://codepen.io/TasniemSeiam" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  /></a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasniemseiam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=tasniemseiam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -43,7 +36,6 @@
 </div>
 
 ###
-
 <!--
 **TasniemSeiam/TasniemSeiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
