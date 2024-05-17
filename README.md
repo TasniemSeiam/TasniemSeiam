@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Tasniem Seiam</h1>
+<h1 align="center">Welcome To My Profile  👋</h1>
 
 ###
-<h3 align="center">Front end developer | Mearn Stack Developer</h3>
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="center">I'm Tasniem Seiam</h3>
+
+###
+
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
