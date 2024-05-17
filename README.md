@@ -6,13 +6,17 @@
 
 <br clear="both">
 
+<h3 align="center">Hi, I'm Tasniem Seiam 😃<br>Front End Developer || Mearn Stack Developer</h3>
+
+###
+
+<br clear="both">
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tasniemseiam.tasniemseiam&left_color=darkslategrey&right_color=steelblue&left_text=Profile%20Views"  />
 
 ###
 
-<h3 align="center">Hi, I'm Tasniem Seiam 😃<br>Front End Developer || Mearn Stack Developer</h3>
-
-###
+<br clear="both">
 
 <p align="left">🎓 Fresh Graduated From Computer and Information Science</p>
 
