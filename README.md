@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tasniemseiam.tasniemseiam&left_color=darkgrey&right_color=cadetblue&left_text=Profile%20Views"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tasniemseiam.tasniemseiam&left_color=darkslategrey&right_color=cadetblue&left_text=Profile%20Views"  />
 
 ###
 
@@ -54,7 +54,6 @@
 </div>
 
 ###
-
 <!--
 **TasniemSeiam/TasniemSeiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
