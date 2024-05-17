@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Welcome To My Profile <img src="https://user-images.githubusercontent.com/75464454/233691477-22334038-52f8-43b9-b08a-966d2fc41efc.gif" /> 👋</h1>
+<h1 align="center">Welcome To My Profile <img align="rigth" src="https://user-images.githubusercontent.com/75464454/233691477-22334038-52f8-43b9-b08a-966d2fc41efc.gif" width="20px" /> </h1>
 
 ###
 
