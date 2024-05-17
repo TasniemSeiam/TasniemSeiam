@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tasniemseiam.tasniemseiam&left_color=darkslategrey&right_color=black&left_text=Profile%20Views"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tasniemseiam.tasniemseiam&left_color=darkslategrey&right_color=mistyrose&left_text=Profile%20Views"  />
 
 ###
 
