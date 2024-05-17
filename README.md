@@ -1,14 +1,32 @@
+<br clear="both">
+
 <h1 align="center">Welcome To My Profile  👋</h1>
 
 ###
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tasniemseiam.tasniemseiam&left_color=darkslategrey&right_color=cadetblue&left_text=Profile%20Views"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tasniemseiam.tasniemseiam&left_color=darkslategrey&right_color=steelblue&left_text=Profile%20Views"  />
 
 ###
 
-<h3 align="center">I'm Tasniem Seiam<br>Front End Developer || Mearn Stack Developer</h3>
+<br clear="both">
+
+<h3 align="center">Hi, I'm Tasniem Seiam 😃</h3>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Front End Developer || Mearn Stack Developer</h3>
+
+###
+
+<p align="left">🎓 Fresh Graduated From Computer and Information Science</p>
+
+###
+
+<p align="left">💻 I am currently interning at ITI on the Mearn Stack Development track for 4 months.</p>
 
 ###
 
@@ -54,17 +72,3 @@
 </div>
 
 ###
-<!--
-**TasniemSeiam/TasniemSeiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
