@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Welcome To My Profile <img align="rigth" src="https://i.pinimg.com/originals/7d/47/f1/7d47f167662601a3c203ba854b236a75.gif" width="40px" /> </h1>
+<h1 align="center">Welcome To My Profile <img align="rigth" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="40px" /> </h1>
 
 ###
 
