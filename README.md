@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi, I'm Tasniem Seiam 😃<br>Front End Developer || Mearn Stack Developer</h3>
+<h3 align="center">Hi, I'm Tasniem Seiam 😃<br>Front End Developer || MERN Stack Developer</h3>
 
 ###
 
@@ -16,9 +16,9 @@
 
 <br clear="both">
 
-<p align="left">🎓 Fresh Graduated From Computer and Information Science</p>
+<p align="left">🎓 Graduated From Computer and Information Science </p>
 
-<p align="left">💻 I am currently interning at ITI on the Mearn Stack Development track for 4 months.</p>
+<p align="left">💻 I completed a 4-month training program in MEARN Stack Development at ITI </p>
 
 ###
 
